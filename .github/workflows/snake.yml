@@ -1,4 +1,5 @@
 name: Generate Cyberpunk Snake
+
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -12,37 +13,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Cyberpunk Snake (Dark Mode with Particles)
+
+      # DARK CYBERPUNK MODE
+      - name: Generate Snake (Dark)
         uses: Platane/snk@v3
         with:
           github_user_name: BivinSG
           outputs: |
-            dist/github-contribution-grid-snake-cyberpunk-dark.svg?
-            palette=github-dark&
-            color_snake=#ff00ff,#00ffff,#39ff14,#ffae00&
-            snake_width=4&
-            speed=6&
-            size=6&
-            particle_color=#00f5ff&
-            particle_count=40&
-            background_color=transparent
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff00ff,#00ffff,#39ff14,#ffae00
 
-      - name: Generate Cyberpunk Snake (Light Mode with Particles)
+      # LIGHT CYBERPUNK MODE
+      - name: Generate Snake (Light)
         uses: Platane/snk@v3
         with:
           github_user_name: BivinSG
           outputs: |
-            dist/github-contribution-grid-snake-cyberpunk.svg?
-            palette=github-light&
-            color_snake=#ff007f,#00bfff,#7cfc00,#ffd700&
-            snake_width=4&
-            speed=6&
-            size=6&
-            particle_color=#ff00ff&
-            particle_count=40&
-            background_color=transparent
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#ff007f,#00bfff,#7cfc00,#ffd700
 
-      - name: Push Output to Branch
+      # PUSH RESULT FILES
+      - name: Push snake files to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
