@@ -76,9 +76,9 @@ Crafting scalable, high-performance apps using React, MERN & .NET
 
 ---
 
-# 📊 Activity Graph
+# 📊 Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BivinSG&theme=react-dark&radius=16&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BivinSG&theme=react-dark&radius=16&hide_border=true&link=0" width="95%"/>
 </p>
 
 ---
