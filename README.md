@@ -69,13 +69,6 @@
 
 ---
 
-# 🐍 Contribution Snake Graph (Night Mode)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</p>
-
----
-
 # 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/bivinsg/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"></a>
@@ -93,8 +86,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" width="100%"/>
 </picture>
-
----
-
-# 🔥 Bottom Wave
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient"/>
