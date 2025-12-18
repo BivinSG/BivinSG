@@ -1,9 +1,20 @@
-<!-- TOP HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,30,40&text=Bivin%20S%20George&fontSize=64&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descSize=24&descAlignY=60&textBg=false"/>
+<!-- PROFESSIONAL HEADER -->
+<div align="center">
+
+# 👋 Hi, I'm **Bivin S George**  
+### 💼 Full Stack Web Developer  
+Building scalable, high-performance applications with React, MERN & .NET  
+
+📍 India | 🌎 Open to remote work  
+📧 bivinsgeorge94@gmail.com  
+
+</div>
+
+---
 
 <!-- QUOTE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=29&duration=1500&pause=800&color=00FF41&center=true&vCenter=true&width=900&height=70&lines=Work+hard+in+silence.;Let+your+success+be+the+noise." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=1500&pause=800&color=00FF41&center=true&vCenter=true&width=600&height=70&lines=Work+hard+in+silence.;Let+your+success+be+the+noise." />
 </p>
 
 <!-- PROFILE VIEWS -->
