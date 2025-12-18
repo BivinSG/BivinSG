@@ -11,6 +11,11 @@
   <img src="https://komarev.com/ghpvc/?username=BivinSG&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge"/>
 </p>
 
+<!-- PARTICLES BACKGROUND -->
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 ---
 
 # 🌌 About Me
@@ -64,21 +69,9 @@
 
 ---
 
-# 🌌 CYBERPUNK RAINBOW SNAKE 🐍⚡  
+# 🐍 Contribution Snake Graph (Night Mode)
 <p align="center">
-  <picture>
-    <!-- DARK MODE -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake-dark.svg" />
-    <!-- LIGHT MODE -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake.svg" />
-    <!-- FALLBACK IMAGE -->
-    <img 
-      alt="Cyberpunk Snake Animation" 
-      src="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake-dark.svg"
-      width="92%"
-      style="border-radius: 12px;" 
-    />
-  </picture>
+  <img src="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </p>
 
 ---
@@ -91,6 +84,15 @@
   <a href="https://wa.me/919400030603"><img src="https://skillicons.dev/icons?i=whatsapp" height="50"></a>
   <a href="https://www.youtube.com/@bivinsgeorge7289"><img src="https://skillicons.dev/icons?i=youtube" height="50"></a>
 </p>
+
+---
+
+# 🎮 Play Breakout
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" width="100%"/>
+</picture>
 
 ---
 
