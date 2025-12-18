@@ -1,11 +1,11 @@
 <!-- PROFESSIONAL HEADER -->
 <div align="center">
 
-# 👋 Hi, I'm **Bivin S George**  
+# 👋 Hey there, I'm **Bivin S George**  
 ### 💼 Full Stack Web Developer  
-Building scalable, high-performance applications with React, MERN & .NET  
+Crafting scalable, high-performance apps using React, MERN & .NET  
 
-📍 India | 🌎 Open to remote work  
+📍 India | 🌎 Remote-Friendly  
 📧 bivinsgeorge94@gmail.com  
 
 </div>
@@ -22,9 +22,12 @@ Building scalable, high-performance applications with React, MERN & .NET
   <img src="https://komarev.com/ghpvc/?username=BivinSG&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge"/>
 </p>
 
-<!-- PARTICLES BACKGROUND -->
+<!-- SNAKE ANIMATION -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake-dark.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -32,9 +35,9 @@ Building scalable, high-performance applications with React, MERN & .NET
 # 🌌 About Me
 
 💡 Full Stack Developer — MERN + React + .NET 9  
-🎯 Focus: Product quality, scaling, clean UI, performance  
-⚡ Passionate about coding, learning & building  
-🚀 Love merging creativity + powerful engineering  
+🎯 Obsessed with scalability, clean code & UI performance  
+⚡ Constant learner, builder & problem solver  
+🚀 Turning ideas into real, impactful products  
 
 ---
 
@@ -50,11 +53,11 @@ Building scalable, high-performance applications with React, MERN & .NET
 # 🧠 Knowledge Areas  
 - MERN Stack  
 - React + TypeScript  
-- .NET 9 Backend REST  
+- .NET 9 REST APIs  
 - MongoDB + SQL  
-- Azure deployment  
-- Scalable architecture  
-- Performance optimization  
+- Azure Deployments  
+- Scalable Architecture  
+- Performance Optimization  
 
 ---
 
