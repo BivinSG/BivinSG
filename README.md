@@ -89,9 +89,9 @@
 
 # 🎮 Play Breakout
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#39FF14">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake.svg?palette=github-light&color_snake=#FF007F">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 ---
