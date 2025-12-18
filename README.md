@@ -11,11 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=BivinSG&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge"/>
 </p>
 
-<!-- PARTICLES BACKGROUND -->
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
 ---
 
 # 🌌 About Me
@@ -69,9 +64,21 @@
 
 ---
 
-# 🐍 Contribution Snake Graph (Night Mode)
+# 🌌 CYBERPUNK RAINBOW SNAKE 🐍⚡  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+  <picture>
+    <!-- DARK MODE -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake-dark.svg" />
+    <!-- LIGHT MODE -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake.svg" />
+    <!-- FALLBACK IMAGE -->
+    <img 
+      alt="Cyberpunk Snake Animation" 
+      src="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake-dark.svg"
+      width="92%"
+      style="border-radius: 12px;" 
+    />
+  </picture>
 </p>
 
 ---
@@ -87,28 +94,5 @@
 
 ---
 
-# 🌌 CYBERPUNK RAINBOW PARTICLE SNAKE 🐍⚡
-
-<p align="center">
-  <picture>
-    <!-- DARK MODE -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake-cyberpunk-dark.svg?v=1" />
-    <!-- LIGHT MODE -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake-cyberpunk.svg?v=1" />
-
-    <!-- FALLBACK -->
-    <img 
-      alt="Cyberpunk Snake Animation" 
-      src="https://raw.githubusercontent.com/BivinSG/BivinSG/output/github-contribution-grid-snake-cyberpunk-dark.svg?v=1"
-      width="92%"
-      style="border-radius: 12px; filter: drop-shadow(0 0 10px #00f5ff);" 
-    />
-  </picture>
-</p>
-
-
----
-
 # 🔥 Bottom Wave
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient"/>
-
