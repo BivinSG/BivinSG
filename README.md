@@ -14,7 +14,7 @@ Building scalable, high-performance applications with React, MERN & .NET
 
 <!-- QUOTE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=1500&pause=800&color=00FF41&center=true&vCenter=true&width=600&height=70&lines=Work+hard+in+silence.;Let+your+success+be+the+noise." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=1500&pause=800&color=00FF41&center=true&vCenter=true&width=600&height=70&lines=%22Work+hard+in+silence.%22;%22Let+your+success+be+the+noise.%22" />
 </p>
 
 <!-- PROFILE VIEWS -->
