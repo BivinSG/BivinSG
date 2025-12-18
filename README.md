@@ -3,7 +3,7 @@
 
 <!-- QUOTE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=29&duration=3500&pause=700&color=00FF41&center=true&vCenter=true&width=900&lines=Work+hard+in+silence;Let+success+be+the+noise;Keep+growing+everyday" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=29&duration=1500&pause=800&color=00FF41&center=true&vCenter=true&width=900&height=70&lines=Work+hard+in+silence.;Let+your+success+be+the+noise." />
 </p>
 
 <!-- PROFILE VIEWS -->
