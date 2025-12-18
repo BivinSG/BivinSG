@@ -5,7 +5,7 @@
 ### 💼 Full Stack Web Developer  
 Crafting scalable, high-performance apps using React, MERN & .NET  
 
-📍 India | 🌎 Remote-Friendly  
+📍 Kerala | India
 📧 bivinsgeorge94@gmail.com  
 
 </div>
